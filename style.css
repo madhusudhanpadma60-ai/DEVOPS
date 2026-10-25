@@ -1,0 +1,11 @@
+```css
+body {
+    text-align: center;
+    background: lightblue;
+}
+
+input, button {
+    margin: 10px;
+    padding: 8px;
+}
+```
